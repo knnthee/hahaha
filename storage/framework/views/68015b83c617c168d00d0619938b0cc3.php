@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\StayWise-laravel-\resources\views/about.blade.php ENDPATH**/ ?>
